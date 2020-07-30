@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da283cd6709ed3dddb0eb15697ceb29f",
+    "revision": "7ff21fb395d637b981dc688fd294e8a8",
     "url": "/airbnb_task/index.html"
   },
   {
-    "revision": "93088ca06ae1d1957bd5",
+    "revision": "1ddc1a137c6c855aac0f",
     "url": "/airbnb_task/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "08625a9accfb4d62b7f2",
-    "url": "/airbnb_task/static/css/main.9c6151e0.chunk.css"
+    "revision": "fcf55d7052f37b86c2fb",
+    "url": "/airbnb_task/static/css/main.45532152.chunk.css"
   },
   {
-    "revision": "93088ca06ae1d1957bd5",
-    "url": "/airbnb_task/static/js/2.f4b1d0e3.chunk.js"
+    "revision": "1ddc1a137c6c855aac0f",
+    "url": "/airbnb_task/static/js/2.bd5756c5.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/airbnb_task/static/js/2.f4b1d0e3.chunk.js.LICENSE.txt"
+    "url": "/airbnb_task/static/js/2.bd5756c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08625a9accfb4d62b7f2",
-    "url": "/airbnb_task/static/js/main.8c60efc5.chunk.js"
+    "revision": "fcf55d7052f37b86c2fb",
+    "url": "/airbnb_task/static/js/main.12160907.chunk.js"
   },
   {
     "revision": "862b4ad23409afc5d6ad",
