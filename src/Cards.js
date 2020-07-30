@@ -11,7 +11,7 @@ return(
 <center>
 <table style={{paddingLeft:'30px'}}>
 <tr>
-<td style={{width:'25.5em',borderCollapse: 'separate'}}>
+<td style={{width:'25em',borderCollapse: 'separate',paddingLeft:'10px'}}>
 <Card style={{borderRadius:'20px',boxShadow:' 10px 10px 10px #D3D3D3'}}>
   <Card.Img variant="top" src={onlineexperiences} style={{borderTopLeftRadius:'20px',borderTopRightRadius:'20px',height:'250px'}}/>
   <Card.Body>
@@ -22,7 +22,7 @@ return(
   </Card.Body>
 </Card>
 </td>
-<td  style={{width:'25.5em',borderCollapse: 'separate'}}>
+<td  style={{width:'25em',borderCollapse: 'separate',paddingLeft:'10px'}}>
 <Card style={{borderRadius:'20px',boxShadow:' 10px 10px 10px #D3D3D3'}}>
   <Card.Img variant="top" src={yournextgetaway} style={{borderTopLeftRadius:'20px',borderTopRightRadius:'20px',height:'250px'}}/>
   <Card.Body>
@@ -30,11 +30,10 @@ return(
     <Card.Text>
       Switch off or reconnect on a trip that's just a short drive away.
     </Card.Text>
-   
   </Card.Body>
 </Card>
 </td>
-<td  style={{width:'25.5em',borderCollapse: 'separate'}}>
+<td  style={{width:'25em',borderCollapse: 'separate',paddingLeft:'10px'}}>
 <Card style={{borderRadius:'20px',boxShadow:' 10px 10px 10px #D3D3D3'}}>
   <Card.Img variant="top" src={entirehomes} style={{ borderTopLeftRadius:'20px',borderTopRightRadius:'20px',height:'250px'}}/>
   <Card.Body>

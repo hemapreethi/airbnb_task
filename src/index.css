@@ -1,5 +1,4 @@
 td,tr a{
-padding-left:20px;
 padding-bottom:10px;
 color:black;
 text-decoration:none;
@@ -104,6 +103,7 @@ html, body, {
     right:0;
 
 }
+
 #abtable a{
 font-size:16px;
 text-decoration:none;

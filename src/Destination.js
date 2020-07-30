@@ -12,7 +12,7 @@ import artofreinventionwithsimideleadeagbo from './Images/art of reinvention wit
 import olympianandparalympianonlineexperiences from './Images/olympian and paralympian online experiences.webp';
 class Destination extends React.Component{
 render(){
-const mystyle1={borderBottom:'1px solid #D3D3D3',borderSpacing:'25px',borderCollapse: 'separate',fontSize:'16px',textAlign:'left'};
+const mystyle1={borderBottom:'1px solid #D3D3D3',borderSpacing:'25px',borderCollapse: 'separate',fontSize:'16px',textAlign:'left',paddingLeft:'40px'};
 return(
 <div>
 <div style={{backgroundColor:"black",padding:"85px"}}>
@@ -87,10 +87,10 @@ You're invited to a 5-day festival of Olympian & Paralympian<br/> Online Experie
 <td  style={mystyle1}><a href="#">Austin</a></td>
 </tr>
 <tr>
-<td  ><a href="#">Houston</a></td>
-<td><a href="#">new Orleans</a></td>
-<td  ><a href="#">Boston</a></td>
-<td ><a href="#">Miami</a></td>
+<td  style={{paddingLeft:'40px'}}><a href="#">Houston</a></td>
+<td style={{paddingLeft:'40px'}}><a href="#">new Orleans</a></td>
+<td  style={{paddingLeft:'40px'}}><a href="#">Boston</a></td>
+<td style={{paddingLeft:'40px'}}><a href="#">Miami</a></td>
 </tr>
 </table>
 </div>
