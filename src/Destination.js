@@ -2,7 +2,7 @@ import React from 'react';
 import './index.scss';
 import'./index.css';
 import {Card} from 'react-bootstrap';
-import {Button} from 'react-bootstrap';
+import {Button} from 'react-bootstrap'; 
 import onlineexperiences from './Images/online experiences.webp';
 import yournextgetaway from './Images/your next getaway.webp';
 import mindfulmovementwithadamkellerman from './Images/mindful movement with adam kellerman.jfif';
