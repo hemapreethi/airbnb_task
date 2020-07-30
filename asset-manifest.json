@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/airbnb_task/static/css/main.799b6f61.chunk.css",
+    "main.js": "/airbnb_task/static/js/main.8c0edad2.chunk.js",
+    "main.js.map": "/airbnb_task/static/js/main.8c0edad2.chunk.js.map",
+    "runtime-main.js": "/airbnb_task/static/js/runtime-main.3522cc8a.js",
+    "runtime-main.js.map": "/airbnb_task/static/js/runtime-main.3522cc8a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/airbnb_task/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f4b1d0e3.chunk.js": "/airbnb_task/static/js/2.f4b1d0e3.chunk.js",
+    "static/js/2.f4b1d0e3.chunk.js.map": "/airbnb_task/static/js/2.f4b1d0e3.chunk.js.map",
+    "index.html": "/airbnb_task/index.html",
+    "precache-manifest.cf818fedb68766ea11911610d829f770.js": "/airbnb_task/precache-manifest.cf818fedb68766ea11911610d829f770.js",
+    "service-worker.js": "/airbnb_task/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/airbnb_task/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.799b6f61.chunk.css.map": "/airbnb_task/static/css/main.799b6f61.chunk.css.map",
+    "static/js/2.f4b1d0e3.chunk.js.LICENSE.txt": "/airbnb_task/static/js/2.f4b1d0e3.chunk.js.LICENSE.txt",
+    "static/media/airbnb.png": "/airbnb_task/static/media/airbnb.106c1201.png",
+    "static/media/art of reinvention with simidele adeagbo.jpg": "/airbnb_task/static/media/art of reinvention with simidele adeagbo.6a1d6bbd.jpg",
+    "static/media/entire homes.jpg": "/airbnb_task/static/media/entire homes.36998cbc.jpg",
+    "static/media/explore surf life with jordy smith.webp": "/airbnb_task/static/media/explore surf life with jordy smith.9cc60e49.webp",
+    "static/media/globe.png": "/airbnb_task/static/media/globe.88b38ff9.png",
+    "static/media/globe1.jpg": "/airbnb_task/static/media/globe1.43d973ac.jpg",
+    "static/media/mindful movement with adam kellerman.jfif": "/airbnb_task/static/media/mindful movement with adam kellerman.d5a6301a.jfif",
+    "static/media/index.css": "/airbnb_task/static/media/olympian and paralympian online experiences.1a82598a.jpg",
+    "static/media/olympian and paralympian online experiences.webp": "/airbnb_task/static/media/olympian and paralympian online experiences.3e4d7088.webp",
+    "static/media/olympic.jpg": "/airbnb_task/static/media/olympic.c6ecd12c.jpg",
+    "static/media/online experiences.webp": "/airbnb_task/static/media/online experiences.cc35426c.webp",
+    "static/media/search.svg": "/airbnb_task/static/media/search.26ba7880.svg",
+    "static/media/user.svg": "/airbnb_task/static/media/user.7c087a07.svg",
+    "static/media/your next getaway.webp": "/airbnb_task/static/media/your next getaway.86bbcf39.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3522cc8a.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f4b1d0e3.chunk.js",
+    "static/css/main.799b6f61.chunk.css",
+    "static/js/main.8c0edad2.chunk.js"
+  ]
+}
