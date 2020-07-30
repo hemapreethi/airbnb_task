@@ -8,10 +8,12 @@ render(){
 return(
 <div>
 <br/>
-<div class="row" >
-<div class="column">
+<center>
+<table style={{paddingLeft:'30px'}}>
+<tr>
+<td style={{width:'25.5em',borderCollapse: 'separate'}}>
 <Card style={{borderRadius:'20px',boxShadow:' 10px 10px 10px #D3D3D3'}}>
-  <Card.Img variant="top" src={onlineexperiences} style={{borderTopLeftRadius:'20px',borderTopRightRadius:'20px',height:'310px'}}/>
+  <Card.Img variant="top" src={onlineexperiences} style={{borderTopLeftRadius:'20px',borderTopRightRadius:'20px',height:'250px'}}/>
   <Card.Body>
     <Card.Title>Online Experiences</Card.Title>
     <Card.Text>
@@ -19,10 +21,10 @@ return(
     </Card.Text>
   </Card.Body>
 </Card>
-</div>
-<div class="column"  >
+</td>
+<td  style={{width:'25.5em',borderCollapse: 'separate'}}>
 <Card style={{borderRadius:'20px',boxShadow:' 10px 10px 10px #D3D3D3'}}>
-  <Card.Img variant="top" src={yournextgetaway} style={{borderTopLeftRadius:'20px',borderTopRightRadius:'20px',height:'310px'}}/>
+  <Card.Img variant="top" src={yournextgetaway} style={{borderTopLeftRadius:'20px',borderTopRightRadius:'20px',height:'250px'}}/>
   <Card.Body>
     <Card.Title>Your next getaway</Card.Title>
     <Card.Text>
@@ -31,18 +33,20 @@ return(
    
   </Card.Body>
 </Card>
-</div>
-<div class="column">
+</td>
+<td  style={{width:'25.5em',borderCollapse: 'separate'}}>
 <Card style={{borderRadius:'20px',boxShadow:' 10px 10px 10px #D3D3D3'}}>
-  <Card.Img variant="top" src={entirehomes} style={{ borderTopLeftRadius:'20px',borderTopRightRadius:'20px',height:'310px'}}/>
+  <Card.Img variant="top" src={entirehomes} style={{ borderTopLeftRadius:'20px',borderTopRightRadius:'20px',height:'250px'}}/>
   <Card.Body>
     <Card.Title>Entire homes</Card.Title>
     <Card.Text>Comfortable private places,with room for friends or family.
     </Card.Text>
   </Card.Body>
 </Card>
-</div>
-</div>
+</td>
+</tr>
+</table></center>
+<br/><br/>
 </div>
 );
 }
