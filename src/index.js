@@ -183,7 +183,7 @@ return(
 <table id="abtable" style={{backgroundColor:'f0f1f0',width:'100%',paddingLeft:'40px'}}>
 <tr  >
 <th  style={{paddingLeft:'80px'}}><small><b>ABOUT</b></small></th>
-<th  style={{paddingLeft:'60px'}}><small><b>HOST</b></small></th>
+<th  style={{paddingLeft:'20px'}}><small><b>HOST</b></small></th>
 <th  style={{paddingLeft:'30px'}}><small><b>COMMUNITY</b></small></th>
 <th style={{paddingLeft:'20px'}}><small><b>SUPPORT</b></small></th>
 </tr>
