@@ -180,53 +180,53 @@ return(
 <br/>
 
 
-<table id="abtable" style={{backgroundColor:'f0f1f0',width:'100%'}}>
+<table id="abtable" style={{backgroundColor:'f0f1f0',width:'100%',paddingLeft:'40px'}}>
 <tr  >
-<th  style={{paddingLeft:'100px'}}><small><b>ABOUT</b></small></th>
-<th  style={{paddingLeft:'100px'}}><small><b>HOST</b></small></th>
-<th  style={{paddingLeft:'100px'}}><small><b>COMMUNITY</b></small></th>
-<th style={{paddingLeft:'100px'}}><small><b>SUPPORT</b></small></th>
+<th  style={{paddingLeft:'80px'}}><small><b>ABOUT</b></small></th>
+<th  style={{paddingLeft:'60px'}}><small><b>HOST</b></small></th>
+<th  style={{paddingLeft:'30px'}}><small><b>COMMUNITY</b></small></th>
+<th style={{paddingLeft:'20px'}}><small><b>SUPPORT</b></small></th>
 </tr>
-<tr  style={{paddingBottom:'5px'}}>
-<td><a href="#">How Airbnb works</a></td>
-<td><a href="#">Airbnb Magazine</a></td>
-<td><a href="#">Host your home</a></td>
-<td><a href="#">Updates for COVID-19</a></td>
+<tr  >
+<td style={{paddingLeft:'60px'}}><a href="#">How Airbnb works</a></td>
+<td style={{paddingLeft:'40px'}}><a href="#">Airbnb Magazine</a></td>
+<td style={{paddingLeft:'10px'}}><a href="#">Host your home</a></td>
+<td style={{paddingLeft:'0px'}}><a href="#">Updates for COVID-19</a></td>
 </tr>
-<tr  style={{padding:'5px'}}>
-<td><a href="#">Diversity & Belonging</a></td>
-<td><a href="#">Airbnb Associates</a></td>
-<td><a href="#">Host an online experience</a></td>
-<td><a href="#">Help Centre</a></td>
+<tr >
+<td style={{paddingLeft:'60px'}}><a href="#">Diversity & Belonging</a></td>
+<td style={{paddingLeft:'40px'}}><a href="#">Airbnb Associates</a></td>
+<td style={{paddingLeft:'10px'}}><a href="#">Host an online experience</a></td>
+<td style={{paddingLeft:'0px'}}><a href="#">Help Centre</a></td>
 </tr>
-<tr  style={{padding:'5px'}}>
-<td><a href="#">Accessibility</a></td>
-<td><a href="#">Airbnb for work</a></td>
-<td><a href="#">Message from CEO Brian Chesky</a></td>
-<td><a href="#">Cancellation options</a></td>
+<tr >
+<td style={{paddingLeft:'60px'}}><a href="#">Accessibility</a></td>
+<td style={{paddingLeft:'40px'}}><a href="#">Airbnb for work</a></td>
+<td style={{paddingLeft:'10px'}}><a href="#">Message from CEO Brian Chesky</a></td>
+<td style={{paddingLeft:'0px'}}><a href="#">Cancellation options</a></td>
 </tr>
-<tr  style={{padding:'5px'}}>
-<td><a href="#">Trust & Safety</a></td>
-<td><a href="#">Invite friends</a></td>
-<td><a href="#">Responsible hosting</a></td>
-<td><a href="#">Neighbourhood Support</a></td>
+<tr>
+<td style={{paddingLeft:'60px'}}><a href="#">Trust & Safety</a></td>
+<td style={{paddingLeft:'40px'}}><a href="#">Invite friends</a></td>
+<td style={{paddingLeft:'10px'}}><a href="#">Responsible hosting</a></td>
+<td style={{paddingLeft:'0px'}}><a href="#">Neighbourhood Support</a></td>
 </tr>
-<tr  style={{padding:'5px'}}>
-<td><a href="#">Airbnb Citizen</a></td>
-<td><a href="#">Careers</a></td>
-<td><a href="#">Open Homes</a></td>
-<td></td>
+<tr >
+<td style={{paddingLeft:'60px'}}><a href="#">Airbnb Citizen</a></td>
+<td style={{paddingLeft:'40px'}}><a href="#">Careers</a></td>
+<td style={{paddingLeft:'10px'}}><a href="#">Open Homes</a></td>
+<td style={{paddingLeft:'0px'}}></td>
 </tr>
-<tr  style={{padding:'5px'}}>
-<td><a href="#">Olympics</a></td>
-<td></td>
-<td><a href="#">Resource Centre</a></td>
-<td></td>
+<tr >
+<td style={{paddingLeft:'60px'}}><a href="#">Olympics</a></td>
+<td style={{paddingLeft:'40px'}}></td>
+<td style={{paddingLeft:'10px'}}><a href="#">Resource Centre</a></td>
+<td style={{paddingLeft:'0px'}}></td>
 </tr>
-<tr  style={{padding:'5px'}}>
-<td><a href="#">Newsroom</a></td>
-<td></td>
-<td><a href="#">Community Centre</a></td>
+<tr >
+<td style={{paddingLeft:'60px'}}><a href="#">Newsroom</a></td>
+<td style={{paddingLeft:'40px'}}></td>
+<td style={{paddingLeft:'10px'}}><a href="#">Community Centre</a></td>
 </tr>
 </table>
 </div>
