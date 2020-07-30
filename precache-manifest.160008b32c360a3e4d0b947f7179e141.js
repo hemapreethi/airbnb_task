@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ff21fb395d637b981dc688fd294e8a8",
+    "revision": "c39e5ba400375fbf3ef81c69c409ab14",
     "url": "/airbnb_task/index.html"
   },
   {
