@@ -256,7 +256,7 @@ return(
 }
 class Destination extends React.Component{
 render(){
-const mystyle1={borderBottom:'1px solid #D3D3D3',borderSpacing:'25px',borderCollapse: 'separate',fontSize:'16px',textAlign:'left'};
+const mystyle1={borderBottom:'1px solid #D3D3D3',borderSpacing:'30px',borderCollapse: 'separate',fontSize:'16px',textAlign:'left'};
 return(
 <div>
 <div style={{backgroundColor:"black",padding:"80px"}}>
