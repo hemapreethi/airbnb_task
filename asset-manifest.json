@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/airbnb_task/static/css/main.799b6f61.chunk.css",
-    "main.js": "/airbnb_task/static/js/main.8c0edad2.chunk.js",
-    "main.js.map": "/airbnb_task/static/js/main.8c0edad2.chunk.js.map",
+    "main.css": "/airbnb_task/static/css/main.9c6151e0.chunk.css",
+    "main.js": "/airbnb_task/static/js/main.8c60efc5.chunk.js",
+    "main.js.map": "/airbnb_task/static/js/main.8c60efc5.chunk.js.map",
     "runtime-main.js": "/airbnb_task/static/js/runtime-main.3522cc8a.js",
     "runtime-main.js.map": "/airbnb_task/static/js/runtime-main.3522cc8a.js.map",
     "static/css/2.af3c1da9.chunk.css": "/airbnb_task/static/css/2.af3c1da9.chunk.css",
     "static/js/2.f4b1d0e3.chunk.js": "/airbnb_task/static/js/2.f4b1d0e3.chunk.js",
     "static/js/2.f4b1d0e3.chunk.js.map": "/airbnb_task/static/js/2.f4b1d0e3.chunk.js.map",
     "index.html": "/airbnb_task/index.html",
-    "precache-manifest.cf818fedb68766ea11911610d829f770.js": "/airbnb_task/precache-manifest.cf818fedb68766ea11911610d829f770.js",
+    "precache-manifest.7f758d53c50a296ebb34ffe2cba38d2d.js": "/airbnb_task/precache-manifest.7f758d53c50a296ebb34ffe2cba38d2d.js",
     "service-worker.js": "/airbnb_task/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/airbnb_task/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.799b6f61.chunk.css.map": "/airbnb_task/static/css/main.799b6f61.chunk.css.map",
+    "static/css/main.9c6151e0.chunk.css.map": "/airbnb_task/static/css/main.9c6151e0.chunk.css.map",
     "static/js/2.f4b1d0e3.chunk.js.LICENSE.txt": "/airbnb_task/static/js/2.f4b1d0e3.chunk.js.LICENSE.txt",
     "static/media/airbnb.png": "/airbnb_task/static/media/airbnb.106c1201.png",
     "static/media/art of reinvention with simidele adeagbo.jpg": "/airbnb_task/static/media/art of reinvention with simidele adeagbo.6a1d6bbd.jpg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.3522cc8a.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.f4b1d0e3.chunk.js",
-    "static/css/main.799b6f61.chunk.css",
-    "static/js/main.8c0edad2.chunk.js"
+    "static/css/main.9c6151e0.chunk.css",
+    "static/js/main.8c60efc5.chunk.js"
   ]
 }
