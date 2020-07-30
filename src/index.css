@@ -23,14 +23,14 @@ padding: 40px;
   content: "";
   display: table;
   clear: both;
-width:70%;
+width:100%;
 }
 .column {
   float: left;
   width:33.33%;
 padding:30px;
-
 font-size:18px;
+
 }
 .row1:after {
   content: "";
